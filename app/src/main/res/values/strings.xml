@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">HuaRongDao</string>
+    <string name="step_text">步数： 0步</string>
+    <string name="time_text">时间： 0秒</string>
+    <string name="backbtn_text">后退一步</string>
+    <string name="restartbtn_text">重新开始</string>
+    <string name="exitbtn_text">退出游戏</string>
+    <string name="start_game">开始\n游戏</string>
+    <string name="rank_list">排行\n榜单</string>
+    <string name="exit_game">退出\n游戏</string>
+    <string name="system_difficult_error">难度读取系统错误</string>
+    <string name="not_move_error">您还没有移动</string>
+    <string name="step_check">步数： %s 步</string>
+    <string name="menu_difficulty_choose">你选择了难度：</string>
+    <string name="menu_determined">确定</string>
+    <string name="menu_difficulty_choose_interface">难度选择界面</string>
+    <string name="time_check">时间： %s 秒</string>
+    <string name="system_move_error">棋子位置读取错误</string>
+    <string name="victory_text">英雄，请留下姓名</string>
+    <string name="record_clear_record">清除记录</string>
+    <string name="system_syntax_error">参数传递系统错误</string>
+    <string name="game_rule">游戏\n规则</string>
+    <string name="difficulty_selection_name">难 度 选 择</string>
+    <string name="hengdaolima">横刀立马</string>
+    <string name="hengshujiejiang">横竖皆将</string>
+    <string name="shoukourupingyi">守口如瓶1</string>
+    <string name="shoukourupinger">守口如瓶2</string>
+    <string name="cengcengshefangyi">层层设防1</string>
+    <string name="cengcengshefanger">层层设防2</string>
+    <string name="game_rule_description">华容道（英语：Klotski，来自波兰文的klocki，意为木块）是一种滑块类游戏，由放在方形盘中的10块方片拼成， 目标是在只滑动方块而不从棋盘中拿走的情况下，将最大的一块移到底部出口。流行于中国的华容道是由英国人John Harold Fleming在1932年所发明， 然后本土化加上三国背景。  玩家的目标就是通过平移滑块，将最大的滑块移到棋盘最下方的中央处。</string>
+</resources>
