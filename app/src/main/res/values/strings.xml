@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">HuaRongDao</string>
+    <string name="app_name">三国 华容道大冒险</string>
     <string name="step_text">步数： 0步</string>
     <string name="time_text">时间： 0秒</string>
     <string name="backbtn_text">后退一步</string>
